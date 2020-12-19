@@ -89,7 +89,7 @@ DNS VS and/or HTTP VS only
 
 ## Run the terraform:
 ```
-cd ~ ; git clone https://github.com/tacobayle/aviVmc ; cd aviVmc ; python3 python/getSDDCDetails.py ; terraform init ; terraform apply -var-file=sddc.json -auto-approve
+cd ~ ; git clone https://github.com/tacobayle/flingAviVmc ; cd flingAviVmc ; python3 python/getSDDCDetails.py ; terraform init ; terraform apply -var-file=sddc.json -auto-approve
 ```
 
 ## Improvement:
